@@ -1,0 +1,6 @@
+org\br\springalura\Application.class
+org\br\springalura\service\ConvidadoServiceImpl.class
+org\br\springalura\service\ConvidadoService.class
+org\br\springalura\model\Convidado.class
+org\br\springalura\repository\ConvidadoRepository.class
+org\br\springalura\resource\ConvidadoController.class

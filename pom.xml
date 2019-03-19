@@ -55,7 +55,6 @@
 
 		<!-- <dependency> <groupId>br.org.email</groupId> <artifactId>enviar-email</artifactId> 
 			<version>0.0.1-SNAPSHOT</version> </dependency> -->
-
 	</dependencies>
 
 	<build>
